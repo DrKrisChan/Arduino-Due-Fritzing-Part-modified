@@ -1,7 +1,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 # Arduino Due Fritzing part (with all connections added)
-Amended Frtizing part to enable all connections (SPI bus, ICSP bus and SWD buses). This is a modification from the original part designed by Althaus.
+Amended Frtizing part to enable all connections (SPI bus, ICSP bus and SWD buses). This is a modification from the original part designed by Althaus, which did not have the bus connections on the top of the board connectable.
 
 
 #### Image example (made on Fritzing):
