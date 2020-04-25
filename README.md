@@ -6,7 +6,7 @@ Amended Frtizing part to enable all connections (SPI bus, ICSP bus and SWD buses
 
 #### Image example (made on Fritzing):
 
-![Arduino Due amendment](KCL_Arduino_Due.PNG)
+![Arduino Due amendment](KCL_Arduino_Due.PNG | width=200)
 
 
 
